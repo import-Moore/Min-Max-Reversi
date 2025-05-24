@@ -1,2 +1,4 @@
 # Min-Max-Reversi
-A simple Reversi program
+This project is a simple Reversi game program. You can enjoy playing with our **min-max** based bot here. 
+Feel free to select hard difficulty level as you know better about the game!
+![image](https://github.com/user-attachments/assets/d6e9b4e0-c8d8-414a-9b15-b704e26a0fc1)
